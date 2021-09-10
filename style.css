@@ -1,3 +1,4 @@
+
 .navbar{
     background-color:#D32F2F !important;
 }
@@ -39,6 +40,7 @@ h3{
     flex-direction: row;
     flex-wrap: wrap;
 }
+
 @media   screen  and (max-width: 600px){
     .card {
        margin-left: 50px !important; 
